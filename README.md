@@ -1,2 +1,2 @@
-# SA_Assignment2
-this is a pw skills assignment 2
+# SA practice 1
+this is a pw skills practice set
